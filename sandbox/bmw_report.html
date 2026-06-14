@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>BMW Company Report</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+  body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  header {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #333;
+  }
+  header h1 {
+    margin: 0;
+    font-weight: 700;
+    color: #0abde3;
+  }
+  section {
+    padding: 20px 40px;
+    max-width: 1000px;
+    margin: auto;
+    border-bottom: 1px solid #333;
+  }
+  h2 {
+    color: #0abde3;
+    border-bottom: 2px solid #0abde3;
+    padding-bottom: 5px;
+  }
+  .chart-container {
+    position: relative;
+    height: 300px;
+    margin-top: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  th, td {
+    padding: 8px 12px;
+    border: 1px solid #333;
+  }
+  th {
+    background-color: #222;
+  }
+  a {
+    color: #0abde3;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<header>
+  <h1>BMW Company Report</h1>
+</header>
+<section id="overview">
+  <h2>Company Overview</h2>
+  <p><strong>BMW Group</strong> (Bayerische Motoren Werke AG) is a German multinational company that produces luxury vehicles and motorcycles. It was founded in 1916 and is headquartered in Munich, Germany.</p>
+  <p>BMW is known for its premium quality, innovative engineering, and has a strong brand presence worldwide. The company operates under several sub-brands including BMW, MINI, and Rolls-Royce.</p>
+</section>
+<section id="business-model">
+  <h2>Business Model</h2>
+  <p>BMW's business model focuses on manufacturing and selling premium automobiles, motorcycles, and providing financial services including leasing and financing.</p>
+  <ul>
+    <li>Vehicle Sales: Premium cars and motorcycles globally.</li>
+    <li>Financial Services: Leasing, loans, and insurance products for customers and dealers.</li>
+    <li>After-Sales Services: Maintenance, repairs, and Genuine Parts & Accessories.</li>
+  </ul>
+</section>
+<section id="financials">
+  <h2>Financials</h2>
+  <p>Below is a summary of BMW's recent financial performance (figures approximate and in billion EUR):</p>
+  <table>
+    <thead>
+      <tr><th>Year</th><th>Revenue</th><th>Net Income</th><th>Operating Profit</th><th>EPS (EUR)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>2021</td><td>111.2</td><td>12.4</td><td>15.3</td><td>7.85</td></tr>
+      <tr><td>2022</td><td>142.6</td><td>16.5</td><td>20.0</td><td>10.4</td></tr>
+      <tr><td>2023</td><td>160.0</td><td>18.8</td><td>22.5</td><td>11.85</td></tr>
+    </tbody>
+  </table>
+  <div class="chart-container">
+    <canvas id="financialChart"></canvas>
+  </div>
+</section>
+<section id="leadership">
+  <h2>Leadership</h2>
+  <ul>
+    <li><strong>Chairman of the Board:</strong> Oliver Zipse</li>
+    <li><strong>Chief Financial Officer:</strong> Nicolas Peter</li>
+    <li><strong>Head of Sales and Brand BMW:</strong> Franciscus van Meel</li>
+    <li><strong>Head of MINI, Rolls-Royce:</strong> Pieter Nota</li>
+  </ul>
+</section>
+<section id="products">
+  <h2>Products</h2>
+  <p>BMW offers a diverse portfolio of vehicles including:</p>
+  <ul>
+    <li>BMW Series: 1, 2, 3, 4, 5, 6, 7, 8 - sedans, SUVs, coupes, and convertibles.</li>
+    <li>Electric Vehicles: BMW i3, i4, iX3, iX, and upcoming i7, iX1</li>
+    <li>Motorcycles: BMW Motorrad range including sport, touring, and urban mobility models.</li>
+    <li>MINI: Compact and premium small cars.</li>
+    <li>Rolls-Royce: Ultra-luxury vehicles.</li>
+  </ul>
+</section>
+<section id="competitors">
+  <h2>Competitors</h2>
+  <p>BMW competes in the premium automobile market with major competitors including:</p>
+  <ul>
+    <li>Mercedes-Benz (Daimler AG)</li>
+    <li>Audi (Volkswagen Group)</li>
+    <li>Lexus (Toyota Motor Corporation)</li>
+    <li>Tesla (Electric vehicle market disruptor)</li>
+    <li>Jaguar Land Rover</li>
+  </ul>
+</section>
+<section id="recent-news">
+  <h2>Recent News</h2>
+  <ul>
+    <li><strong>BMW announces new strategic plan focusing on electrification and sustainability (2024)</strong></li>
+    <li><strong>BMW iX and i4 continue to gain market traction in EV segment (2023)</strong></li>
+    <li><strong>BMW partners with tech companies for AI-driven autonomous driving advancements (2023)</strong></li>
+    <li><strong>Expansion of electric vehicle production capacity in Germany and the US (2023)</strong></li>
+  </ul>
+</section>
+<section id="swot">
+  <h2>SWOT Analysis</h2>
+  <table>
+    <thead>
+      <tr><th>Strengths</th><th>Weaknesses</th><th>Opportunities</th><th>Threats</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Strong brand reputation and premium image</td>
+        <td>High manufacturing costs and pricing
+</td>
+        <td>Growing demand for electric vehicles and sustainability
+</td>
+        <td>Intense competition in luxury EV market
+</td>
+      </tr>
+      <tr>
+        <td>Innovative technology and engineering
+</td>
+        <td>Dependence on European market and supply chain vulnerabilities
+</td>
+        <td>Expansion into emerging markets
+</td>
+        <td>Regulatory and environmental compliance costs
+</td>
+      </tr>
+      <tr>
+        <td>Diverse product portfolio including ICE and EV
+</td>
+        <td>Transition risks to electrification
+</td>
+        <td>Partnerships in autonomous driving tech
+</td>
+        <td>Global economic uncertainties impacting sales
+</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+<section id="future-outlook">
+  <h2>Future Outlook</h2>
+  <p>BMW is strategically focused on electrification, digitalization, and sustainability to secure a leading position in the premium automotive market of the future. The company plans to expand its portfolio of electric vehicles and strengthen its AI and autonomous driving technologies.</p>
+  <p>Investment in battery technology, global production expansion, and strategic partnerships will be key to success. BMW also aims to enhance customer experience through connected services and digital ecosystems.</p>
+</section>
+<script>
+  const ctx = document.getElementById('financialChart').getContext('2d');
+  const financialChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: ['2021', '2022', '2023'],
+      datasets: [
+        {
+          label: 'Revenue (Billion EUR)',
+          data: [111.2, 142.6, 160.0],
+          borderColor: '#0abde3',
+          backgroundColor: 'rgba(10, 189, 227, 0.3)',
+          fill: true,
+          tension: 0.3
+        },
+        {
+          label: 'Net Income (Billion EUR)',
+          data: [12.4, 16.5, 18.8],
+          borderColor: '#22dd88',
+          backgroundColor: 'rgba(34, 221, 136, 0.3)',
+          fill: true,
+          tension: 0.3
+        },
+        {
+          label: 'Operating Profit (Billion EUR)',
+          data: [15.3, 20.0, 22.5],
+          borderColor: '#ff9933',
+          backgroundColor: 'rgba(255, 153, 51, 0.3)',
+          fill: true,
+          tension: 0.3
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          labels: {
+            color: '#e0e0e0'
+          }
+        }
+      },
+      scales: {
+        x: {
+          ticks: {
+            color: '#e0e0e0'
+          },
+          grid: {
+            color: '#333'
+          }
+        },
+        y: {
+          ticks: {
+            color: '#e0e0e0'
+          },
+          grid: {
+            color: '#333'
+          }
+        }
+      }
+    }
+  });
+</script>
+</body>
+</html>
