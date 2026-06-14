@@ -1,0 +1,915 @@
+- generic [ref=e1]:
+  - alert [ref=e2]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e9]:
+        - heading [level=2] [ref=e10]: LinkedIn respects your privacy
+        - generic [ref=e12]:
+          - paragraph [ref=e13]:
+            - text: LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://www.linkedin.com/legal/cookie-policy
+              - text: Cookie Policy
+            - text: .
+          - paragraph [ref=e15]:
+            - text: Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+            - link [ref=e16] [cursor=pointer]:
+              - /url: https://www.linkedin.com/mypreferences/g/guest-cookies
+              - text: settings
+            - text: .
+        - generic [ref=e17]:
+          - button [ref=e18] [cursor=pointer]: Accept
+          - button [ref=e19] [cursor=pointer]: Reject
+  - link [ref=e20] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [ref=e21]:
+    - navigation [ref=e22]:
+      - link [ref=e23] [cursor=pointer]:
+        - /url: /?trk=organization_guest_nav-header-logo
+        - generic [ref=e24]: LinkedIn
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - link [ref=e28] [cursor=pointer]:
+            - /url: https://www.linkedin.com/top-content?trk=organization_guest_guest_nav_menu_topContent
+            - generic [ref=e30]: Top Content
+        - listitem [ref=e31]:
+          - link [ref=e32] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pub/dir/+/+?trk=organization_guest_guest_nav_menu_people
+            - generic [ref=e34]: People
+        - listitem [ref=e35]:
+          - link [ref=e36] [cursor=pointer]:
+            - /url: https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning
+            - generic [ref=e38]: Learning
+        - listitem [ref=e39]:
+          - link [ref=e40] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs
+            - generic [ref=e42]: Jobs
+        - listitem [ref=e43]:
+          - link [ref=e44] [cursor=pointer]:
+            - /url: https://www.linkedin.com/games?trk=organization_guest_guest_nav_menu_games
+            - generic [ref=e46]: Games
+      - generic [ref=e47]:
+        - link [ref=e48] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&fromSignIn=true&trk=organization_guest_nav-header-signin
+          - text: Sign in
+        - link [ref=e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_nav-header-join
+          - text: Join now
+  - main [ref=e50]:
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - figure [ref=e53]:
+          - img [ref=e56]
+        - generic [ref=e57]:
+          - img [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - heading [level=1] [ref=e62]: Enpal
+              - heading [level=2] [ref=e63]: Energy Technology
+              - heading [level=4] [ref=e64]:
+                - generic [ref=e65]: The future of energy starts here—intelligently connected, renewable, and resilient. 🔋⚡
+              - generic [ref=e66]:
+                - link [ref=e67] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/enpal-jobs-worldwide?f_C=11805751&trk=top-card_top-card-primary-button-top-card-primary-cta
+                  - text: See jobs
+                - link [ref=e68] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&fromSignIn=true&trk=top-card_top-card-secondary-button-top-card-secondary-cta
+                  - text: Follow
+            - list [ref=e70]:
+              - listitem [ref=e71]:
+                - link [ref=e73] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B11805751%255D&trk=org-employees_cta_face-pile-cta
+                  - generic [ref=e74]:
+                    - img [ref=e75]
+                    - img [ref=e76]
+                    - img [ref=e77]
+                  - paragraph [ref=e79]: Discover all 3,739 employees
+          - button [ref=e82] [cursor=pointer]
+      - generic [ref=e83]:
+        - navigation [ref=e84]:
+          - list [ref=e85]:
+            - listitem [ref=e86]:
+              - link [ref=e87] [cursor=pointer]:
+                - /url: https://de.linkedin.com/company/enpal?trk=nav_type_overview
+                - text: Overview
+            - listitem [ref=e88]:
+              - link [ref=e89] [cursor=pointer]:
+                - /url: https://de.linkedin.com/company/enpal/jobs?trk=nav_type_jobs
+                - text: Jobs
+            - listitem [ref=e90]:
+              - link [ref=e91] [cursor=pointer]:
+                - /url: https://de.linkedin.com/company/enpal/life?trk=nav_type_life
+                - text: Life
+        - generic [ref=e92]:
+          - heading [level=2] [ref=e93]: About us
+          - generic [ref=e94]:
+            - paragraph [ref=e95]: "Enpal is Europe's leading new energy company. We are building the energy infrastructure of the future: smart, connected, decentralized, sustainable, and innovative. We offer a fully integrated energy system consisting of a solar power system, battery storage, a wall box, a smart meter, and a heat pump. These components are connected via the AI-supported Enpal.One+ platform, forming an intelligent, decentralized, high-performance energy network. Enpal.One+ connects tens of thousands of storage units, directly connecting households and businesses with the electricity market. This enables real-time optimization of electricity procurement and feed-in, creating an energy system that is cheaper, more stable, and more efficient than traditional structures. Over 115,000 customers are already part of this networked energy future. Their installed systems have a combined output of around one gigawatt, comparable to a conventional large-scale power plant."
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - term [ref=e98]: Website
+                - definition [ref=e99]:
+                  - link [ref=e100] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ecorporate%2Eenpal%2Ecom%2F&urlhash=pvhR&trk=about_website
+                    - text: https://www.corporate.enpal.com/
+              - generic [ref=e101]:
+                - term [ref=e102]: Industry
+                - definition [ref=e103]: Energy Technology
+              - generic [ref=e104]:
+                - term [ref=e105]: Company size
+                - definition [ref=e106]: 1,001-5,000 employees
+              - generic [ref=e107]:
+                - term [ref=e108]: Headquarters
+                - definition [ref=e109]: Berlin
+              - generic [ref=e110]:
+                - term [ref=e111]: Type
+                - definition [ref=e112]: Privately Held
+              - generic [ref=e113]:
+                - term [ref=e114]: Founded
+                - definition [ref=e115]: "2017"
+              - generic [ref=e116]:
+                - term [ref=e117]: Specialties
+                - definition [ref=e118]: Renewable Energy Solutions, Solar Photovoltaics, Heat Pump Systems, Smart Metering & Metering Point Operation, EV Charging Infrastructure & Wallboxes, Battery Storage Systems, AI-driven Energy Management, Virtual Energy Networks & VPP Technologies, Energy Trading & Optimization, Flexible Energy Tariffs, Installation & Deployment at scale, Financing Models for Renewable Energy, Commercial & Industrial Solutions, Supply Chain & Energy Hardware Operations, Training & Workforce Development, Entrepreneurship & Intrapreneurship, and B2B2C Energy Services
+        - generic [ref=e119]:
+          - heading [level=2] [ref=e120]: Locations
+          - list [ref=e122]:
+            - listitem [ref=e123]:
+              - text: Primary
+              - generic [ref=e124]:
+                - paragraph [ref=e125]: Bödikerstraße 25
+                - paragraph [ref=e126]: Berlin, 10245, DE
+              - link [ref=e127] [cursor=pointer]:
+                - /url: https://www.bing.com/maps?where=B%C3%B6dikerstra%C3%9Fe+25+Berlin+10245+DE&trk=org-locations_url
+                - text: Get directions
+        - generic [ref=e128]:
+          - heading [level=2] [ref=e129]: Employees at Enpal
+          - generic [ref=e130]:
+            - list [ref=e131]:
+              - listitem [ref=e132]:
+                - link [ref=e133] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/in/dr-christian-saller-16226?trk=org-employees
+                  - img [ref=e134]
+                  - heading [level=3] [ref=e136]: Dr. Christian Saller
+              - listitem [ref=e137]:
+                - link [ref=e138] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/in/jakobgeiger?trk=org-employees
+                  - img [ref=e139]
+                  - heading [level=3] [ref=e141]: Jakob Geiger
+              - listitem [ref=e142]:
+                - link [ref=e143] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/davidlincoln?trk=org-employees
+                  - img [ref=e144]
+                  - heading [level=3] [ref=e146]: David Lincoln
+              - listitem [ref=e147]:
+                - link [ref=e148] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/in/mario-olivio-flores?trk=org-employees
+                  - img [ref=e149]
+                  - heading [level=3] [ref=e151]: Mario Flores
+            - link [ref=e152] [cursor=pointer]:
+              - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B11805751%255D&trk=public_biz_employees-join
+              - text: See all employees
+        - generic [ref=e153]:
+          - heading [level=2] [ref=e154]: Updates
+          - list [ref=e156]:
+            - listitem [ref=e157]:
+              - generic [ref=e158]:
+                - link [ref=e159] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_heute-startet-die-1-lesung-des-geb%C3%A4udemodernisierungsgesetzes-activity-7470836697778339840--5qG
+                - article [ref=e160]:
+                  - generic [ref=e161]:
+                    - generic [ref=e163]:
+                      - link [ref=e164] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e165]
+                      - generic [ref=e166]:
+                        - link [ref=e168] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e169]: 194,104 followers
+                        - time [ref=e171]: 3d
+                    - button [ref=e174] [cursor=pointer]
+                  - paragraph [ref=e176]: "Heute startet die 1. Lesung des Gebäudemodernisierungsgesetzes (GModG) im Bundestag. Die Novelle wird entscheidend dafür sein, ob die Wärmewende kosteneffizient, resilient und klimaneutral gelingt. Die Wärmewende steht an einem kritischen Punkt: Noch immer drohen politische Fehlanreize, die Verbraucher langfristig mit höheren Energiekosten belasten und Investitionen in moderne Heiztechnologien ausbremsen. Gleichzeitig entscheidet sich jetzt, ob Deutschland einen klimaneutralen und wettbewerbsfähigen Wärmemarkt schafft oder neue fossile Abhängigkeiten für Jahrzehnte zementiert. Aus Sicht von Enpal sollte das Gesetz vier zentrale Prinzipien verfolgen, damit Verbraucher nicht in die Kostenfalle geraten, Betriebe Planungsunsicherheit erhalten und die Klimaziele erreicht werden: 1. Klimaziele sichern statt fossile Lock-ins verlängern Die Biotreppe und Ersatzmaßnahmen müssen konsequent an realen Emissionsminderungen ausgerichtet werden. Hybrid- und andere Übergangslösungen dürfen nicht dazu führen, dass fossile Heizsysteme dauerhaft fortgeführt werden. Das Betriebsverbot für fossile Heizungen ab 2045 muss Bestand haben. 2. Förderung planbar weiterentwickeln Die Förderung muss - wie angekündigt - bis 2029 stabil bleiben und nicht sprunghaft gekürzt werden. Verbraucher, Handwerk und Industrie brauchen Investitionssicherheit. Öffentliche Mittel sollten dort eingesetzt werden, wo sie die größte Klimawirkung und Systemeffizienz entfalten. 3. ETS II konsequent berücksichtigen Mit dem europäischen Emissionshandel werden fossile Energieträger in den kommenden Jahren schrittweise teurer. Regulierung und Förderung sollten diese Entwicklung unterstützen – nicht konterkarieren. Wer heute neue fossile Pfade eröffnet, schafft die Kostenprobleme von morgen. 4. Technologieoffenheit richtig verstehen Technologieoffenheit bedeutet Wettbewerb zwischen klimaneutralen Lösungen – etwa Wärmepumpen, Gebäudenetzen und Fernwärme. Sie bedeutet nicht die Privilegierung fossiler Technologien oder pauschale Anschlusszwänge. Verbraucherinnen und Verbraucher sollten die wirtschaftlich und technisch beste klimaneutrale Lösung wählen können. Das GModG kann ein echtes Modernisierungsgesetz werden – für Klimaschutz, bezahlbare Energie und wirtschaftliches Wachstum. Dafür braucht es jetzt die richtigen Weichenstellungen im parlamentarischen Verfahren."
+                  - list [ref=e177]:
+                    - listitem [ref=e178]:
+                      - img [ref=e179]
+                  - link [ref=e181] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                    - generic [ref=e182]: "29"
+                  - generic [ref=e183]:
+                    - link [ref=e184] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e186]: Like
+                    - link [ref=e187] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e189]: Comment
+                    - link [ref=e190] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e192]: Share
+            - listitem [ref=e193]:
+              - generic [ref=e194]:
+                - link [ref=e195] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_female-empowerment-ist-fest-in-der-unternehmenskultur-activity-7468904542454145024-MqaU
+                - article [ref=e196]:
+                  - generic [ref=e197]:
+                    - generic [ref=e199]:
+                      - link [ref=e200] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e201]
+                      - generic [ref=e202]:
+                        - link [ref=e204] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e205]: 194,104 followers
+                        - time [ref=e207]: 1w
+                    - button [ref=e210] [cursor=pointer]
+                  - paragraph [ref=e212]:
+                    - text: Female Empowerment ist fest in der Unternehmenskultur von Enpal verankert. Unsere Initiative
+                    - link [ref=e213] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/project-ada-initiative-enpal?trk=organization_guest_main-feed-card-text
+                      - text: Project Ada
+                    - text: fördert mit Mentoring- und Networking-Formaten gezielt die Weiterentwicklung von Frauen. Mit fast 100 Kolleginnen und Kollegen haben wir beim Berliner Firmenlauf ein starkes Zeichen für Zusammenhalt und Chancengleichheit gesetzt.
+                  - article [ref=e214]:
+                    - generic [ref=e215]:
+                      - link [ref=e216] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/project-ada-initiative-enpal?trk=organization_guest_main-feed-card_reshare_feed-actor-image
+                        - img [ref=e217]
+                      - generic [ref=e218]:
+                        - link [ref=e220] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/company/project-ada-initiative-enpal?trk=organization_guest_main-feed-card_reshare_feed-actor-name
+                          - text: Project Ada
+                        - paragraph [ref=e221]: 458 followers
+                        - time [ref=e223]:
+                          - text: 1w
+                          - generic [ref=e224]: ·
+                          - text: Edited
+                    - paragraph [ref=e226]:
+                      - text: "🧡 From the Berlin Women’s Run to the Berlin Company Run - the story continues. 🧡 Last year, 40 Enpal women took part in the Berlin Women’s Run through our Female Empowerment initiative, Project Ada - and the atmosphere was incredible. This year, we took it to the next level: almost 100"
+                      - link [ref=e227] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_reshare-text
+                        - text: Enpal
+                      - text: colleagues joined the Berlin Company Run, organized by and together with Project Ada. More runners, more momentum, and more Enpal spirit out on Berlin’s streets. We’re proud of everyone who participated and supported - whether you ran, danced, or cheered. Thank you for bringing the energy and for making a real difference!
+                      - link [ref=e228] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fprojectada&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#ProjectAda"
+                      - link [ref=e229] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fberlincompanyrun&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#BerlinCompanyRun"
+                      - link [ref=e230] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fenpalspirit&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#EnpalSpirit"
+                      - link [ref=e231] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fteamwork&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#Teamwork"
+                      - link [ref=e232] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffemaleempowerment&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#FemaleEmpowerment"
+                      - link [ref=e233] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwomeninenergy&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#WomenInEnergy"
+                      - link [ref=e234] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgrowingtogether&trk=organization_guest_main-feed-card_reshare-text
+                        - text: "#GrowingTogether"
+                    - list [ref=e235]:
+                      - listitem [ref=e236]:
+                        - img [ref=e237]
+                      - listitem [ref=e238]:
+                        - img [ref=e239]
+                      - listitem [ref=e240]:
+                        - img [ref=e241]
+                      - listitem [ref=e242]:
+                        - img [ref=e243]
+                      - listitem [ref=e244]:
+                        - img [ref=e245]
+                  - link [ref=e247] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                    - generic [ref=e248]: "26"
+                  - generic [ref=e249]:
+                    - link [ref=e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e252]: Like
+                    - link [ref=e253] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e255]: Comment
+                    - link [ref=e256] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e258]: Share
+            - listitem [ref=e259]:
+              - generic [ref=e260]:
+                - link [ref=e261] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_fachkr%C3%A4fte-academy-activity-7467817456200491008-SqwO
+                - article [ref=e262]:
+                  - generic [ref=e263]:
+                    - generic [ref=e265]:
+                      - link [ref=e266] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e267]
+                      - generic [ref=e268]:
+                        - link [ref=e270] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e271]: 194,104 followers
+                        - time [ref=e273]:
+                          - text: 1w
+                          - generic [ref=e274]: ·
+                          - text: Edited
+                    - button [ref=e277] [cursor=pointer]
+                  - paragraph [ref=e279]:
+                    - text: Im deutschen Elektrohandwerk fehlen aktuell rund 100.000
+                    - link [ref=e280] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2FfachkrAeufte&trk=organization_guest_main-feed-card-text
+                      - text: "#Fachkräfte"
+                    - text: . Dabei sind sie entscheidend, um die Infrastruktur für mehr Energieunabhängigkeit überhaupt aufzubauen. 🔧 Enpal weitet deshalb seine Fachkräfte-Offensive aus. Bereits 2021 haben wir mit der Enpal
+                    - link [ref=e281] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Facademy&trk=organization_guest_main-feed-card-text
+                      - text: "#Academy"
+                    - text: "in Dahlewitz (Brandenburg) ein Schulungszentrum für dezentrale Energielösungen aufgebaut, das größte seiner Art in Europa. Seitdem wurden dort über 4.000 Fach- und Hilfskräfte für Photovoltaik und Wärmepumpen qualifiziert. Jetzt gehen wir den nächsten Schritt: 🤝🏗️ Wir öffnen unsere Trainingskapazitäten auch für externe Handwerks- und Partnerbetriebe. Die Academy bietet fünf praxisnahe Programme rund um Installation und Wartung mit erfahrenen Ausbilder:innen, auf modernsten Trainingsflächen und Einsätzen auf realen Baustellen. 🌐📜 Parallel bauen wir unser internationales Fachkräfteprogramm für Elektriker:innen aus. Rund 500 Elektriker:innen aus Kolumbien sollen allein in diesem Jahr in der Academy eine IHK-anerkannte, sechsmonatige Weiterbildung für den deutschen Arbeitsmarkt absolvieren. Im Rahmen des Programms erhalten die internationalen Fachkräfte fachspezifische Deutschkurse, Integrationsangebote sowie Unterstützung bei Visa- und, sowie bei Bedarf auch bei Führerschein, Versicherung, Wohnung und Familiennachzug. Mehr dazu in unserer Pressemitteilung:"
+                    - link [ref=e282] [cursor=pointer]:
+                      - /url: https://lnkd.in/dG-HeU-X?trk=organization_guest_main-feed-card-text
+                      - text: https://lnkd.in/dG-HeU-X
+                  - list [ref=e283]:
+                    - listitem [ref=e284]:
+                      - img [ref=e285]
+                    - listitem [ref=e286]:
+                      - img [ref=e287]
+                  - generic [ref=e288]:
+                    - link [ref=e289] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                      - generic [ref=e290]: "131"
+                    - link [ref=e291] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-comments
+                      - text: · 6 Comments
+                  - generic [ref=e292]:
+                    - link [ref=e293] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e295]: Like
+                    - link [ref=e296] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e298]: Comment
+                    - link [ref=e299] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e301]: Share
+            - listitem [ref=e302]:
+              - generic [ref=e303]:
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_linkedintopcompanies-activity-7462407115844804608-zaLF
+                - article [ref=e305]:
+                  - generic [ref=e306]:
+                    - generic [ref=e308]:
+                      - link [ref=e309] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e310]
+                      - generic [ref=e311]:
+                        - link [ref=e313] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e314]: 194,104 followers
+                        - time [ref=e316]: 3w
+                    - button [ref=e319] [cursor=pointer]
+                  - paragraph [ref=e321]:
+                    - text: Enpal gehört zu den Top‑Arbeitgebern Berlins.
+                    - link [ref=e322] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/linkedin?trk=organization_guest_main-feed-card-text
+                      - text: LinkedIn
+                    - text: "hat erstmals eine Liste der Top Companies in der Region Berlin veröffentlicht und Enpal auf Platz 1 gerankt. 🏆 Die Auszeichnung zeigt, was Enpal heute ist: ein stark wachsender Arbeitgeber in der Region, der Mitarbeitenden Entwicklungsperspektiven bietet – und Sinn. In Berlin und an unseren regionalen Standorten arbeiten Expert:innen aus Tech, Vertrieb, Kundenservice, Handwerk und vielen weiteren Bereichen gemeinsam an einem Ziel: ein Energiesystem, das unabhängig von fossilen Energien ist. Unsere Ernennung zur Top Company basiert auf realen Karriereverläufen, Aufstiegschancen und unserer Relevanz als Arbeitgeber in der Region Berlin. Kurz gesagt: Hier entstehen Karrieren mit Wirkung. Für Menschen, die etwas bewegen wollen. Mehr zu unseren Teams ➡️"
+                    - link [ref=e323] [cursor=pointer]:
+                      - /url: https://lnkd.in/dnwve8Sb?trk=organization_guest_main-feed-card-text
+                      - text: https://lnkd.in/dnwve8Sb
+                    - link [ref=e324] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flinkedintopcompanies&trk=organization_guest_main-feed-card-text
+                      - text: "#LinkedInTopCompanies"
+                  - list [ref=e325]:
+                    - listitem [ref=e326]:
+                      - img [ref=e327]
+                    - listitem [ref=e328]:
+                      - img [ref=e329]
+                  - generic [ref=e330]:
+                    - link [ref=e331] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                      - generic [ref=e332]: "414"
+                    - link [ref=e333] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-comments
+                      - text: · 11 Comments
+                  - generic [ref=e334]:
+                    - link [ref=e335] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e337]: Like
+                    - link [ref=e338] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e340]: Comment
+                    - link [ref=e341] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e343]: Share
+            - listitem [ref=e344]:
+              - generic [ref=e345]:
+                - link [ref=e346] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_warum-der-aktuelle-gmodg-entwurf-die-w%C3%A4rmewende-activity-7460339914463793152-F51i
+                - article [ref=e347]:
+                  - generic [ref=e348]:
+                    - generic [ref=e350]:
+                      - link [ref=e351] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e352]
+                      - generic [ref=e353]:
+                        - link [ref=e355] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e356]: 194,104 followers
+                        - time [ref=e358]: 1mo
+                    - button [ref=e361] [cursor=pointer]
+                  - paragraph [ref=e363]:
+                    - text: Mit dem aktuellen Entwurf für das
+                    - link [ref=e364] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2FgebAeuudemodernisierungsgesetz&trk=organization_guest_main-feed-card-text
+                      - text: "#Gebäudemodernisierungsgesetz"
+                    - text: "verfestigt die Bundesregierung fossile Abhängigkeiten, statt die Wärmewende verlässlich, bezahlbar und klimaneutral auszurichten. Der Entwurf setzt Fehlanreize, die erhebliche volkswirtschaftliche Risiken bergen: Kosten werden in die Zukunft verschoben, Investitionen verunsichert und Haushalte ebenso wie Unternehmen langfristig belastet. Gleichzeitig verliert der Gebäudesektor seinen klaren Klimapfad. In dieser Ausgestaltung droht das Gesetz, die Wärmewende unnötig teuer und ineffizient zu machen. Es öffnet neue Spielräume für fossile Lösungen – mit erheblichen Folgen für Wohlstand, Wettbewerbsfähigkeit und Klimaziele. Was es jetzt braucht: ▪️ eine ambitionierte, klimazielkonforme Biotreppe ▪️ gleichlaufende Anforderungen für Ersatzmaßnahmen ▪️ eine planbare und effiziente Förderkulisse ▪️ die konsequente Berücksichtigung des ETS II ▪️ echte Technologieoffenheit ohne fossile Hintertüren Die Bundesregierung muss nachschärfen. Nur so kann das"
+                    - link [ref=e365] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgmodg&trk=organization_guest_main-feed-card-text
+                      - text: "#GModG"
+                    - text: zu einem echten Modernisierungsimpuls für Souveränität, wirtschaftliches Wachstum und Klimaschutz am Standort Deutschland werden. Warum der Entwurf in die falsche Richtung steuert 👇
+                  - iframe [ref=e366]:
+                    
+                  - link [ref=e368] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                    - generic [ref=e369]: "48"
+                  - generic [ref=e370]:
+                    - link [ref=e371] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e373]: Like
+                    - link [ref=e374] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e376]: Comment
+                    - link [ref=e377] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e379]: Share
+            - listitem [ref=e380]:
+              - article [ref=e381]:
+                - paragraph [ref=e382]:
+                  - link [ref=e383] [cursor=pointer]:
+                    - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-reaction-header
+                    - text: Enpal
+                  - text: reposted this
+                - generic [ref=e384]:
+                  - generic [ref=e386]:
+                    - link [ref=e387] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/in/wolfgang-gruendinger?trk=organization_guest_main-feed-card_feed-actor-image
+                      - img [ref=e388]
+                    - generic [ref=e389]:
+                      - generic [ref=e390]:
+                        - link [ref=e391] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/in/wolfgang-gruendinger?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Dr. Wolfgang Gründinger
+                        - generic [ref=e392]: Dr. Wolfgang Gründinger is an Influencer
+                      - time [ref=e394]: 1mo
+                  - button [ref=e397] [cursor=pointer]
+                - generic [ref=e398]:
+                  - paragraph [ref=e399]:
+                    - text: Negative Strompreise halten Deutschland in Atem. Sonne und Wind liefern ZU VIEL Strom - und wir wissen gar nicht mehr, wohin mit dem Überfluss. Was bedeutet das? Wie gehen wir damit um? Das diskutiere ich mit
+                    - link [ref=e400] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/in/lionhirth?trk=organization_guest_main-feed-card-text
+                      - text: Lion Hirth
+                    - text: im
+                    - link [ref=e401] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card-text
+                      - text: Enpal
+                    - text: "-Podcast STROM & DRANG. Jetzt auf Youtube und überall, wo es Podcasts gibt. 📺 Youtube:"
+                    - link [ref=e402] [cursor=pointer]:
+                      - /url: https://lnkd.in/dmSbqv2i?trk=organization_guest_main-feed-card-text
+                      - text: https://lnkd.in/dmSbqv2i
+                    - text: "🎧 Spotify:"
+                    - link [ref=e403] [cursor=pointer]:
+                      - /url: https://lnkd.in/gUf_fmcV?trk=organization_guest_main-feed-card-text
+                      - text: https://lnkd.in/gUf_fmcV
+                    - text: "🍏 Apple:"
+                    - link [ref=e404] [cursor=pointer]:
+                      - /url: https://lnkd.in/dkMH_nN6?trk=organization_guest_main-feed-card-text
+                      - text: https://lnkd.in/dkMH_nN6
+                  - button [ref=e405] [cursor=pointer]: …more
+                - generic [ref=e408]:
+                  - link [ref=e409] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                    - generic [ref=e410]: "29"
+                  - link [ref=e411] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-comments
+                    - text: · 2 Comments
+                - generic [ref=e412]:
+                  - link [ref=e413] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                    - generic [ref=e415]: Like
+                  - link [ref=e416] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                    - generic [ref=e418]: Comment
+                  - link [ref=e419] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                    - generic [ref=e421]: Share
+            - listitem [ref=e422]:
+              - generic [ref=e423]:
+                - link [ref=e424] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_netzdienlich-netzplanung-eeg-activity-7458391538788782080-1rk5
+                - article [ref=e425]:
+                  - generic [ref=e426]:
+                    - generic [ref=e428]:
+                      - link [ref=e429] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e430]
+                      - generic [ref=e431]:
+                        - link [ref=e433] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e434]: 194,104 followers
+                        - time [ref=e436]: 1mo
+                    - button [ref=e439] [cursor=pointer]
+                  - paragraph [ref=e441]:
+                    - text: "Negative Strompreise zeigen: Dem deutschen Energiesystem fehlt es an intelligenter Steuerung und Flexibilität. Diese Perspektive hat unser CPO"
+                    - link [ref=e442] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/in/benjamin-merle-14851717?trk=organization_guest_main-feed-card-text
+                      - text: Benjamin Merle
+                    - text: "-Oberheide beim Event „Energie neu denken“ von"
+                    - link [ref=e443] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/company/thepioneer?trk=organization_guest_main-feed-card-text
+                      - text: The Pioneer
+                    - text: eingebracht. Auf dem Panel „Netze oder Erneuerbare – Wer setzt das Tempo?“ machte er deutlich, welches Potenzial in Photovoltaikanlagen steckt, wenn sie intelligent gesteuert und systemisch mitgedacht werden. In den vergangenen Jahren wurde auf der Systemseite zu wenig nachgezogen. Der notwendige Ausbau der Erneuerbaren trifft deshalb immer häufiger auf ein Stromsystem, das nicht ausreichend vorbereitet ist. Die Folgen sind negative Preise, Abregelung und steigende Systemkosten. Das muss nicht sein. Enpal zeigt, dass dezentrale Energie heute schon skaliert und
+                    - link [ref=e444] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetzdienlich&trk=organization_guest_main-feed-card-text
+                      - text: "#netzdienlich"
+                    - text: wirkt. Hunderttausende digital vernetzte Haushalte bündeln ihre Solaranlagen, Batteriespeicher und steuerbaren Verbraucher im virtuellen Kraftwerk und reagieren gezielt auf die Situation im Netz. Bei Stromüberschuss werden Speicher geladen, bei Knappheit wird Energie bereitgestellt. Diese intelligente Steuerung kann Abregelungen und negative Strompreise reduzieren und die Netze insgesamt stabilisieren. Dezentrale Flexibilität senkt so Systemkosten, macht Strom günstiger und stärkt Europas Energiesicherheit, indem sie die Abhängigkeit von zentralen Strukturen reduziert. Dezentrale Energie ist systemrelevant. Jetzt gilt es, sie konsequent in
+                    - link [ref=e445] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetzplanung&trk=organization_guest_main-feed-card-text
+                      - text: "#Netzplanung"
+                    - text: ","
+                    - link [ref=e446] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Feeg&trk=organization_guest_main-feed-card-text
+                      - text: "#EEG"
+                    - text: ‑Weiterentwicklung und
+                    - link [ref=e447] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fkraftwerksstrategie&trk=organization_guest_main-feed-card-text
+                      - text: "#Kraftwerksstrategie"
+                    - text: "zu integrieren. 📷 Copyright: Thomas Rosenthal"
+                  - list [ref=e448]:
+                    - listitem [ref=e449]:
+                      - img [ref=e450]
+                    - listitem [ref=e451]:
+                      - img [ref=e452]
+                    - listitem [ref=e453]:
+                      - img [ref=e454]
+                  - generic [ref=e455]:
+                    - link [ref=e456] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                      - generic [ref=e457]: "82"
+                    - link [ref=e458] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-comments
+                      - text: · 4 Comments
+                  - generic [ref=e459]:
+                    - link [ref=e460] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e462]: Like
+                    - link [ref=e463] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e465]: Comment
+                    - link [ref=e466] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e468]: Share
+            - listitem [ref=e469]:
+              - article [ref=e470]:
+                - paragraph [ref=e471]:
+                  - link [ref=e472] [cursor=pointer]:
+                    - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-reaction-header
+                    - text: Enpal
+                  - text: reposted this
+                - generic [ref=e473]:
+                  - generic [ref=e475]:
+                    - link [ref=e476] [cursor=pointer]:
+                      - /url: https://de.linkedin.com/in/wolfgang-gruendinger?trk=organization_guest_main-feed-card_feed-actor-image
+                      - img [ref=e477]
+                    - generic [ref=e478]:
+                      - generic [ref=e479]:
+                        - link [ref=e480] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/in/wolfgang-gruendinger?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Dr. Wolfgang Gründinger
+                        - generic [ref=e481]: Dr. Wolfgang Gründinger is an Influencer
+                      - time [ref=e483]: 1mo
+                  - button [ref=e486] [cursor=pointer]
+                - paragraph [ref=e488]:
+                  - text: Schlange bei
+                  - link [ref=e489] [cursor=pointer]:
+                    - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card-text
+                    - text: Enpal
+                  - text: so lang wie beim Berghain! Am Montag durften wir bei
+                  - link [ref=e490] [cursor=pointer]:
+                    - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card-text
+                    - text: Enpal
+                  - text: "wieder über 150 Neustarter begrüßen 🙂 Als ich vor 5 Jahren dazugestoßen bin, war Enpal noch ein kleines Startup. Heute sind wir Solar-Marktführer in Europa, größter Wärmepumpen-Installateur in Deutschland, und führend bei der Entwicklung virtueller Kraftwerke. Für mich ist es jedes Mal wieder einfach nur großartig mitzuerleben, wie Enpal wächst und wir die Energiewende voanbringen. Teil der Mission werden? Wir haben zahlreiche offene Stellen! 🤖 Tech:"
+                  - link [ref=e491] [cursor=pointer]:
+                    - /url: https://lnkd.in/dse9GWpb?trk=organization_guest_main-feed-card-text
+                    - text: https://lnkd.in/dse9GWpb
+                  - text: "🤝Sales:"
+                  - link [ref=e492] [cursor=pointer]:
+                    - /url: https://lnkd.in/dfyKRWHt?trk=organization_guest_main-feed-card-text
+                    - text: https://lnkd.in/dfyKRWHt
+                  - text: "🛠️Installation:"
+                  - link [ref=e493] [cursor=pointer]:
+                    - /url: https://lnkd.in/dzPKdqFg?trk=organization_guest_main-feed-card-text
+                    - text: https://lnkd.in/dzPKdqFg
+                  - text: "📈Scaling Business:"
+                  - link [ref=e494] [cursor=pointer]:
+                    - /url: https://lnkd.in/dmSjMQZY?trk=organization_guest_main-feed-card-text
+                    - text: https://lnkd.in/dmSjMQZY
+                  - text: Join the sunny side! 🌞
+                - list [ref=e495]:
+                  - listitem [ref=e496]:
+                    - img [ref=e497]
+                  - listitem [ref=e498]:
+                    - img [ref=e499]
+                  - listitem [ref=e500]:
+                    - img [ref=e501]
+                  - listitem [ref=e502]:
+                    - img [ref=e503]
+                - generic [ref=e504]:
+                  - link [ref=e505] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                    - generic [ref=e506]: "421"
+                  - link [ref=e507] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-comments
+                    - text: · 16 Comments
+                - generic [ref=e508]:
+                  - link [ref=e509] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                    - generic [ref=e511]: Like
+                  - link [ref=e512] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                    - generic [ref=e514]: Comment
+                  - link [ref=e515] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                    - generic [ref=e517]: Share
+            - listitem [ref=e518]:
+              - generic [ref=e519]:
+                - link [ref=e520] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_geb%C3%A4udemodernisierungsgesetz-w%C3%A4rmepumpe-activity-7457459928971051009-E1Qr
+                - article [ref=e521]:
+                  - generic [ref=e522]:
+                    - generic [ref=e524]:
+                      - link [ref=e525] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e526]
+                      - generic [ref=e527]:
+                        - link [ref=e529] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e530]: 194,104 followers
+                        - time [ref=e532]:
+                          - text: 1mo
+                          - generic [ref=e533]: ·
+                          - text: Edited
+                    - button [ref=e536] [cursor=pointer]
+                  - paragraph [ref=e538]:
+                    - text: Der Referentenentwurf zum neuen
+                    - link [ref=e539] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2FgebAeuudemodernisierungsgesetz&trk=organization_guest_main-feed-card-text
+                      - text: "#Gebäudemodernisierungsgesetz"
+                    - text: liegt vor. Was zeigt er uns? Die
+                    - link [ref=e540] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2FwAeurmepumpe&trk=organization_guest_main-feed-card-text
+                      - text: "#Wärmepumpe"
+                    - text: ist und bleibt die finanziell sicherste und beliebteste Heiztechnologie in Deutschland. Gas- und Ölheizungen werden dagegen immer unsicherer und teurer. Geopolitische Konflikte, steigende CO₂-Preise, höhere Netzentgelte und kostspielige Vorgaben für Bioöle und -gase erhöhen die Belastung dauerhaft. Fossile Energie ist keine tragfähige Zukunftsstrategie, sondern eine Kostenfalle für Haushalte und den Mittelstand. Eine sichere und bezahlbare Energiezukunft gelingt nur durch konsequente
+                    - link [ref=e541] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Felektrifizierung&trk=organization_guest_main-feed-card-text
+                      - text: "#Elektrifizierung"
+                    - text: . Jetzt kommt es auf Tempo an. Das Gesetz muss zügig verabschiedet werden, damit Investitionen getätigt werden und die Modernisierung des Gebäudebestands vorankommt. Handwerk, Industrie und Verbraucher benötigen endlich Planungssicherheit sowie klare und verlässliche Rahmenbedingungen.
+                  - list [ref=e542]:
+                    - listitem [ref=e543]:
+                      - img [ref=e544]
+                  - link [ref=e546] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                    - generic [ref=e547]: "24"
+                  - generic [ref=e548]:
+                    - link [ref=e549] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e551]: Like
+                    - link [ref=e552] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e554]: Comment
+                    - link [ref=e555] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e557]: Share
+            - listitem [ref=e558]:
+              - generic [ref=e559]:
+                - link [ref=e560] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/posts/enpal_flexibilit%C3%A4t-netzausbau-netzentgelte-activity-7457011905040273409-Qj_U
+                - article [ref=e561]:
+                  - generic [ref=e562]:
+                    - generic [ref=e564]:
+                      - link [ref=e565] [cursor=pointer]:
+                        - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-image
+                        - img [ref=e566]
+                      - generic [ref=e567]:
+                        - link [ref=e569] [cursor=pointer]:
+                          - /url: https://de.linkedin.com/company/enpal?trk=organization_guest_main-feed-card_feed-actor-name
+                          - text: Enpal
+                        - paragraph [ref=e570]: 194,104 followers
+                        - time [ref=e572]: 1mo
+                    - button [ref=e575] [cursor=pointer]
+                  - paragraph [ref=e577]:
+                    - text: Gemeinsam mit vielen weiteren Akteuren appellieren wir an die Bundesnetzagentur und werben für mutige Reformen, endlich mehr
+                    - link [ref=e578] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2FflexibilitAeut&trk=organization_guest_main-feed-card-text
+                      - text: "#Flexibilität"
+                    - text: im Netz, und weniger Kosten für das Netz. Der
+                    - link [ref=e579] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetzausbau&trk=organization_guest_main-feed-card-text
+                      - text: "#Netzausbau"
+                    - text: "bis 2045 kostet bis zu 700 Mrd. Euro. Ein Drittel davon entfällt auf die Niederspannung – dort, wo über 90 % der Verbraucher angeschlossen sind. Gleichzeitig liegen dort über 200 GW flexible Leistung aus Speichern, E‑Autos und Wärmepumpen. Dieses Potenzial muss endlich systematisch genutzt werden. Unsere Forderungen: 1️⃣ Preissignale für alle, von Anfang an: Auch Haushalte sollten frühzeitig von zeitlich unterschiedlichen Netzentgelten profitieren, die zeigen, wann Strom das Netz besonders belastet und wann nicht. 2️⃣ Flexibilität auch im Wohnquartier nutzen: Haushalte können helfen, Netze zu entlasten. Dafür müssen zeitvariable Netzentgelte nach § 14a EnWG in der Niederspannung wirklich überall umgesetzt werden. 3️⃣ Mehr Anreiz, weniger Kupfer: Netzentgelte sollten nicht nur heutige Engpässe lösen, sondern auch teuren Netzausbau vermeiden. Das spart Milliarden. 4️⃣ Weg von pauschalen Grundpreisen: Gleiche Fixpreise für kleine Wohnungen und große Bürogebäude sind nicht gerecht. Entscheidend sollte sein, wann und wie Strom genutzt wird – nicht ein fixer Sockelbetrag. 5️⃣ Faire Regeln für Solaranlagen & Speicher: Eine Solaranlage darf kein Kostennachteil sein. Wer flexibel ist, sollte über dynamische Preise belohnt – nicht über pauschale Aufschläge bestraft werden. 6️⃣ Kapazitätspreise mit Augenmaß: Kapazitätsentgelte können helfen, dürfen aber nicht dazu führen, dass Preissignale wirkungslos werden. Sonst reagieren Kunden nicht mehr auf Engpässe. 7️⃣ Klare Regeln bei Baukosten: Ein Prosumer, der bereits einen Netzanschluss hat, darf nicht doppelt zur Kasse gebeten werden. Hier braucht es klare Leitplanken für Netzbetreiber. Unser Appell: Dynamische, faire"
+                    - link [ref=e580] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnetzentgelte&trk=organization_guest_main-feed-card-text
+                      - text: "#Netzentgelte"
+                    - text: sind der Schlüssel zu sicheren Netzen, bezahlbarem Strom und einer erfolgreichen Energiewende.
+                  - list [ref=e581]:
+                    - listitem [ref=e582]:
+                      - img [ref=e583]
+                  - generic [ref=e584]:
+                    - link [ref=e585] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-reactions
+                      - generic [ref=e586]: "86"
+                    - link [ref=e587] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_social-actions-comments
+                      - text: · 1 Comment
+                  - generic [ref=e588]:
+                    - link [ref=e589] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_like-cta
+                      - generic [ref=e591]: Like
+                    - link [ref=e592] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_comment-cta
+                      - generic [ref=e594]: Comment
+                    - link [ref=e595] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_main-feed-card_share-cta
+                      - generic [ref=e597]: Share
+    - generic [ref=e598]:
+      - generic [ref=e599]:
+        - heading [level=2] [ref=e600]: Similar pages
+        - generic [ref=e602]:
+          - list [ref=e603]:
+            - listitem [ref=e604]:
+              - link [ref=e605] [cursor=pointer]:
+                - /url: https://eg.linkedin.com/company/enpal-egypt?trk=similar-pages
+                - generic [ref=e606]:
+                  - heading [level=3] [ref=e607]: Enpal Egypt
+                  - paragraph [ref=e608]: Services for Renewable Energy
+            - listitem [ref=e609]:
+              - link [ref=e610] [cursor=pointer]:
+                - /url: https://de.linkedin.com/company/1komma5grad?trk=similar-pages
+                - generic [ref=e611]:
+                  - heading [level=3] [ref=e612]: 1KOMMA5°
+                  - paragraph [ref=e613]: Services for Renewable Energy
+                  - paragraph [ref=e614]: Hamburg, HH
+            - listitem [ref=e615]:
+              - link [ref=e616] [cursor=pointer]:
+                - /url: https://de.linkedin.com/company/zolar-gmbh?trk=similar-pages
+                - generic [ref=e617]:
+                  - heading [level=3] [ref=e618]: zolar
+                  - paragraph [ref=e619]: Services for Renewable Energy
+            - listitem [ref=e620]:
+              - link [ref=e621] [cursor=pointer]:
+                - /url: https://de.linkedin.com/company/zalando?trk=similar-pages
+                - generic [ref=e622]:
+                  - heading [level=3] [ref=e623]: Zalando
+                  - paragraph [ref=e624]: Retail
+                  - paragraph [ref=e625]: Berlin, Berlin
+          - button [ref=e626] [cursor=pointer]: Show more similar pages
+      - generic [ref=e628]:
+        - heading [level=2] [ref=e629]: Browse jobs
+        - generic [ref=e631]:
+          - list [ref=e632]:
+            - listitem [ref=e633]:
+              - link [ref=e634] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e635]:
+                  - heading [level=3] [ref=e636]: Analyst jobs
+                  - generic [ref=e637]: 694,057 open jobs
+            - listitem [ref=e638]:
+              - link [ref=e639] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/engineer-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e640]:
+                  - heading [level=3] [ref=e641]: Engineer jobs
+                  - generic [ref=e642]: 555,845 open jobs
+            - listitem [ref=e643]:
+              - link [ref=e644] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/associate-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e645]:
+                  - heading [level=3] [ref=e646]: Associate jobs
+                  - generic [ref=e647]: 1,091,945 open jobs
+            - listitem [ref=e648]:
+              - link [ref=e649] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/manager-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e650]:
+                  - heading [level=3] [ref=e651]: Manager jobs
+                  - generic [ref=e652]: 1,880,925 open jobs
+            - listitem [ref=e653]:
+              - link [ref=e654] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e655]:
+                  - heading [level=3] [ref=e656]: Intern jobs
+                  - generic [ref=e657]: 71,196 open jobs
+            - listitem [ref=e658]:
+              - link [ref=e659] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/project-manager-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e660]:
+                  - heading [level=3] [ref=e661]: Project Manager jobs
+                  - generic [ref=e662]: 253,048 open jobs
+            - listitem [ref=e663]:
+              - link [ref=e664] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/team-lead-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e665]:
+                  - heading [level=3] [ref=e666]: Team Lead jobs
+                  - generic [ref=e667]: 1,056,618 open jobs
+            - listitem [ref=e668]:
+              - link [ref=e669] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/director-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e670]:
+                  - heading [level=3] [ref=e671]: Director jobs
+                  - generic [ref=e672]: 1,220,357 open jobs
+            - listitem [ref=e673]:
+              - link [ref=e674] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/account-manager-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e675]:
+                  - heading [level=3] [ref=e676]: Account Manager jobs
+                  - generic [ref=e677]: 121,519 open jobs
+            - listitem [ref=e678]:
+              - link [ref=e679] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/business-development-specialist-jobs?trk=organization_guest-browse_jobs
+                - generic [ref=e680]:
+                  - heading [level=3] [ref=e681]: Business Development Specialist jobs
+                  - generic [ref=e682]: 29,135 open jobs
+          - button [ref=e683] [cursor=pointer]: Show more jobs like this
+  - button [ref=e689] [cursor=pointer]: More searches
+  - contentinfo [ref=e691]:
+    - list [ref=e692]:
+      - listitem [ref=e693]:
+        - generic [ref=e694]: LinkedIn
+        - generic [ref=e696]: © 2026
+      - listitem [ref=e697]:
+        - link [ref=e698] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_org_guest_company_overview_footer-about
+          - text: About
+      - listitem [ref=e699]:
+        - link [ref=e700] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_org_guest_company_overview_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=e701]:
+        - link [ref=e702] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_org_guest_company_overview_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=e703]:
+        - link [ref=e704] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_org_guest_company_overview_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=e705]:
+        - link [ref=e706] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_org_guest_company_overview_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=e707]:
+        - link [ref=e708] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_org_guest_company_overview_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=e709]:
+        - link [ref=e710] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_org_guest_company_overview_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=e711]:
+        - link [ref=e712] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_org_guest_company_overview_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=e713]:
+        - link [ref=e714] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_org_guest_company_overview_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=e715]:
+        - button [ref=e717]: Language
+  - dialog "Sign in to see who you already know at Enpal" [active] [ref=e720]:
+    - button "Dismiss" [ref=e721] [cursor=pointer]
+    - generic [ref=e723]:
+      - generic [ref=e724]:
+        - img [ref=e725]
+        - heading "Sign in to see who you already know at Enpal" [level=2] [ref=e726]
+      - generic [ref=e727]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=e728] [cursor=pointer]:
+          - generic [ref=e730]: Sign in with Email
+        - paragraph [ref=e732]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=e733]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=e734] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fenpal&trk=organization_guest_contextual-sign-in-modal_join-link
+        - paragraph [ref=e735]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e736] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e737] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e738] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

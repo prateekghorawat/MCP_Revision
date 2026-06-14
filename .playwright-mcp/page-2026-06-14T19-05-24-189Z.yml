@@ -1,0 +1,431 @@
+- generic [ref=e1]:
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - link "Skip to main content" [ref=e2] [cursor=pointer]:
+            - /url: "#main"
+          - text: close
+          - generic [ref=e3]:
+            - navigation "Main navigation" [ref=e4]:
+              - link "BMW Logo" [ref=e5] [cursor=pointer]:
+                - /url: /de/home.html
+              - text: arrow_chevron_down arrow_chevron_right arrow_chevron_down arrow_chevron_right arrow_chevron_down arrow_chevron_right
+              - list "Navigation list" [ref=e7]:
+                - listitem [ref=e8]:
+                  - button "My BMW" [ref=e9] [cursor=pointer]:
+                    - generic [ref=e10]: person
+                - listitem [ref=e11]:
+                  - link "Warenkorb" [ref=e12] [cursor=pointer]:
+                    - /url: https://www.bmw.de/de/shop/ls/cart/digital-services
+                    - generic [ref=e13]: shopping_cart
+                - listitem [ref=e14]:
+                  - link "Wunschliste" [ref=e15] [cursor=pointer]:
+                    - /url: https://www.bmw.de/de/shop/ls/wishlist
+                    - generic [ref=e16]: heart
+                - text: location_pin
+                - listitem [ref=e17]:
+                  - button "Open navigation menu" [ref=e18] [cursor=pointer]:
+                    - generic: menu
+            - text: location_pin close arrow_chevron_left arrow_chevron_left arrow_chevron_right arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left arrow_chevron_left
+  - generic:
+    - generic:
+      - generic:
+        - complementary:
+          - generic:
+            - text: close speech_bubbles
+            - combobox "BMW Kundenbetreuung" [ref=e19] [cursor=pointer]:
+              - generic: speech_bubbles
+              - generic: close
+  - text: close
+  - main [ref=e23]:
+    - generic [ref=e24]:
+      - heading "Willkommen bei BMW – Freude am Fahren" [level=1] [ref=e25]
+      - generic [ref=e28]:
+        - generic [ref=e30]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic "Die neue BMW 7er Limousine" [ref=e31] [cursor=pointer]
+                  - button "Play Button":
+                    - generic: pause
+                    - generic: play
+                    - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "DIE NEUE BMW 7er LIMOUSINE" [level=2]
+                    - generic:
+                      - generic:
+                        - paragraph: AUSDRUCK HÖCHSTER HINGABE.
+                    - generic:
+                      - generic:
+                        - link "Konfigurieren & Preise" [ref=e32] [cursor=pointer]:
+                          - /url: https://configure.bmw.de/de_DE/configure/G70/61HZ/FKVSW,P0C36,S01CB,S01CE,S01DG,S01DZ,S01F4,S0230,S0248,S02TB,S02VB,S02VD,S02VH,S0302,S0319,S03CK,S03DN,S0416,S0428,S0465,S04A2,S04D7,S04FL,S04FM,S04HA,S04HC,S0548,S05AT,S05AV,S05DN,S0617,S061B,S0654,S06AE,S06AF,S06D5,S06NY,S06WF,S0851,S0879,S08KA,S08R3,S08R9,S08TF,S09QX
+                          - generic [ref=e33]: Konfigurieren & Preise
+                        - link "Jetzt entdecken Jetzt mehr zum BMW 7er entdecken" [ref=e34] [cursor=pointer]:
+                          - /url: /de/neufahrzeuge/7er/limousine/bmw-7er-limousine.html
+                          - generic [ref=e35]: Jetzt entdecken
+        - generic [ref=e37]:
+          - paragraph [ref=e38]: "BMW 740 xDrive Limousine: Energieverbrauch kombiniert: 8,4 l/100 km (WLTP); CO₂-Emissionen kombiniert: 192 g/km (WLTP); CO₂-Klasse(n): G"
+          - generic [ref=e39]:
+            - button "WCAG.ariaLabel.Info" [ref=e40] [cursor=pointer]:
+              - generic [ref=e41]: information
+            - text: close
+      - generic [ref=e46]:
+        - img "BMW M Concept Neue Klasse im Fahrdynamik Einsatz auf der Rennstrecke." [ref=e50]
+        - generic [ref=e56]:
+          - heading "BMW M Concept Neue Klasse." [level=2] [ref=e60]
+          - paragraph [ref=e63]: Design trifft Performance.
+          - link "Jetzt entdecken" [ref=e68] [cursor=pointer]:
+            - /url: /de/neufahrzeuge/konzeptfahrzeuge/bmw-m-concept-neue-klasse.html
+            - generic [ref=e69]: Jetzt entdecken
+      - generic [ref=e72]:
+        - generic [ref=e74]:
+          - img "Der neue BMW iX3" [ref=e78]
+          - generic [ref=e84]:
+            - heading "Der neue BMW iX3." [level=2] [ref=e88]
+            - paragraph [ref=e91]: Jetzt bei Ihrem BMW Partner.
+            - generic [ref=e94]:
+              - link "Probefahrt vereinbaren" [ref=e96] [cursor=pointer]:
+                - /url: https://www.bmw.de/forms/probefahrt-vereinbaren/tda.html?modelRange=NA5
+                - generic [ref=e97]: Probefahrt vereinbaren
+              - link "Jetzt entdecken" [ref=e99] [cursor=pointer]:
+                - /url: /de/neufahrzeuge/x/ix3/bmw-ix3.html
+                - generic [ref=e100]: Jetzt entdecken
+        - generic [ref=e102]:
+          - paragraph [ref=e103]: "BMW iX3 50 xDrive: Energieverbrauch kombiniert: 17,9–15,1 kWh/100 km (WLTP); CO₂-Emissionen kombiniert: 0 g/km (WLTP); Elektrische Reichweite: 678–805 km (WLTP); CO₂-Klasse(n): A."
+          - generic [ref=e104]:
+            - button "WCAG.ariaLabel.Info" [ref=e105] [cursor=pointer]:
+              - generic [ref=e106]: information
+            - text: close
+      - generic [ref=e114]:
+        - img "staatlich gefördert, elektrisch begeistert" [ref=e118]
+        - generic [ref=e124]:
+          - heading "Staatlich gefördert, elektrisch begeistert." [level=2] [ref=e128]
+          - paragraph [ref=e131]: Sichern Sie sich bis zu 6.000 EUR staatliche Förderung.¹
+          - link "Jetzt entdecken" [ref=e136] [cursor=pointer]:
+            - /url: /de/elektroauto/foerderungen_privatkunden.html
+            - generic [ref=e137]: Jetzt entdecken
+      - generic [ref=e140]:
+        - img [ref=e148]
+        - generic [ref=e151]:
+          - heading "Sommerzeit ist Abenteuerzeit." [level=2] [ref=e155]
+          - paragraph [ref=e158]: Mit Original BMW Zubehör sowie passenden Serviceangeboten sind Sie perfekt vorbereitet für den Sommer. Entdecken Sie jetzt alles, was Ihren BMW noch besser macht.
+          - generic [ref=e161]:
+            - link "Wird in einem neuen Tab geöffnet Zum Shop" [ref=e163] [cursor=pointer]:
+              - /url: https://www.bmw.de/de/shop/ls/cp/physical-goods/de-BF_ACCESSORY
+              - generic [ref=e164]: arrow_chevron_right
+              - generic [ref=e165]: Zum Shop
+            - link "BMW Serviceangebote" [ref=e167] [cursor=pointer]:
+              - /url: https://www.bmw.de/de/bmw-service-hub.html
+              - generic [ref=e168]: arrow_chevron_right
+              - generic [ref=e169]: BMW Serviceangebote
+      - generic [ref=e174]:
+        - paragraph [ref=e175]: "BMW iX3 50 xDrive: Energieverbrauch kombiniert: 17,9–15,1 kWh/100 km (WLTP); CO₂-Emissionen kombiniert: 0 g/km (WLTP); Elektrische Reichweite: 678–805 km (WLTP); CO₂-Klasse(n): A"
+        - paragraph [ref=e176]
+        - paragraph [ref=e177]:
+          - superscript [ref=e178]: "1"
+          - text: Nur für Privatkunden. Die E‑Auto-Förderung gilt beim Kauf oder Leasing eines erstmals in Deutschland zugelassenen Neufahrzeugs der EU-Fahrzeugklasse M1 mit rein batterieelektrischem Antrieb, batterieelektrischem Antrieb mit Range-Extender oder Plug-in-Hybrid-Antrieb. Fahrzeuge mit Range-Extender oder Plug-in-Hybrid-Antrieb werden gefördert, sofern die Fahrzeuge bestimmte klimaschutzrelevante Anforderungen erfüllen. Weitere Informationen finden Sie auf der Seite des Bundesumweltministeriums.
+  - contentinfo [ref=e179]:
+    - generic [ref=e188]:
+      - generic [ref=e191]:
+        - list [ref=e197]:
+          - listitem [ref=e198]:
+            - generic:
+              - img
+        - generic [ref=e204]:
+          - paragraph [ref=e207]: Die My BMW App. Die direkte Verbindung zu Ihrem BMW.
+          - link "Jetzt entdecken" [ref=e209] [cursor=pointer]:
+            - /url: /de/my-bmw-app/my-bmw-app.html
+            - generic [ref=e210]: arrow_chevron_right
+            - generic [ref=e211]: Jetzt entdecken
+      - generic [ref=e214]:
+        - generic [ref=e217]:
+          - generic [ref=e219]:
+            - heading "Kontakt" [level=3] [ref=e220]
+            - list [ref=e221]:
+              - listitem [ref=e222]:
+                - link "Hilfe & Kontakt" [ref=e223] [cursor=pointer]:
+                  - /url: /de/mehr-bmw/kundenbetreuung.html
+                  - generic [ref=e224]: Hilfe & Kontakt
+              - listitem [ref=e225]:
+                - link "Häufige Fragen (FAQ)" [ref=e226] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/s/?language=de
+                  - generic [ref=e227]: Häufige Fragen (FAQ)
+              - listitem [ref=e228]:
+                - link "BMW Partner finden" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.bmw.de/dlo/de-de/bmw/dealer-locator.html
+                  - generic [ref=e230]: BMW Partner finden
+              - listitem [ref=e231]:
+                - link "Unfall- und Pannenhilfe" [ref=e232] [cursor=pointer]:
+                  - /url: /de/bmw-service-hub/bmw-service/unfall-pannenhilfe.html
+                  - generic [ref=e233]: Unfall- und Pannenhilfe
+              - listitem [ref=e234]:
+                - link "Angebot anfordern" [ref=e235] [cursor=pointer]:
+                  - /url: https://www.bmw.de/faas/form/de-de/bmw/rfo/angebotsanfrage.html
+                  - generic [ref=e236]: Angebot anfordern
+          - generic [ref=e238]:
+            - heading "BMW erleben" [level=3] [ref=e239]
+            - list [ref=e240]:
+              - listitem [ref=e241]:
+                - link "BMW Karriere" [ref=e242] [cursor=pointer]:
+                  - /url: https://www.bmwgroup.jobs/de/de.html
+                  - generic [ref=e243]: BMW Karriere
+              - listitem [ref=e244]:
+                - link "BMW.com" [ref=e245] [cursor=pointer]:
+                  - /url: https://www.bmw.com/de/index.html
+                  - generic [ref=e246]: BMW.com
+              - listitem [ref=e247]:
+                - link "BMW Group" [ref=e248] [cursor=pointer]:
+                  - /url: https://www.bmwgroup.com/de.html
+                  - generic [ref=e249]: BMW Group
+        - generic [ref=e252]:
+          - generic [ref=e254]:
+            - heading "Service- & Dienstleistungen" [level=3] [ref=e255]
+            - list [ref=e256]:
+              - listitem [ref=e257]:
+                - link "Termin vereinbaren" [ref=e258] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de-de/appointments/bmw/service
+                  - generic [ref=e259]: Termin vereinbaren
+              - listitem [ref=e260]:
+                - link "My BMW App" [ref=e261] [cursor=pointer]:
+                  - /url: https://open.bmwgroup.com/bmw.html
+                  - generic [ref=e262]: My BMW App
+              - listitem [ref=e263]:
+                - link "ConnectedDrive Services" [ref=e264] [cursor=pointer]:
+                  - /url: /de/digital-services/bmw-connecteddrive.html
+                  - generic [ref=e265]: ConnectedDrive Services
+              - listitem [ref=e266]:
+                - link "Gewährleistung und Garantien" [ref=e267] [cursor=pointer]:
+                  - /url: /de/topics/neuwagen/gewaehrleistung.html
+                  - generic [ref=e268]: Gewährleistung und Garantien
+              - listitem [ref=e269]:
+                - link "BMW Drivers Guide App" [ref=e270] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/s/article/BMW-Zubehör-Betriebsanleitung-tshuu?language=de
+                  - generic [ref=e271]: BMW Drivers Guide App
+              - listitem [ref=e272]:
+                - link "Remote Software Upgrades" [ref=e273] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/digital-services/bmw-connecteddrive.html
+                  - generic [ref=e274]: Remote Software Upgrades
+              - listitem [ref=e275]:
+                - 'link "BMW Recycling: Rücknahme von Altfahrzeugen" [ref=e276] [cursor=pointer]':
+                  - /url: /content/dam/bmw/marketDE/bmw_de/BMW_Recycling_und_Ruecknahmestellen_Uebersicht_260212.pdf.asset.1771311194085.pdf
+                  - generic [ref=e277]: "BMW Recycling: Rücknahme von Altfahrzeugen"
+          - generic [ref=e279]:
+            - heading "Auswählen & Kaufen" [level=3] [ref=e280]
+            - list [ref=e281]:
+              - listitem [ref=e282]:
+                - link "Konfigurator" [ref=e283] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/konfigurator.html
+                  - generic [ref=e284]: Konfigurator
+              - listitem [ref=e285]:
+                - link "Neuwagensuche" [ref=e286] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de-de/sl/neuwagensuche#/results
+                  - generic [ref=e287]: Neuwagensuche
+              - listitem [ref=e288]:
+                - link "Gebrauchtwagensuche" [ref=e289] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de-de/sl/gebrauchtwagen
+                  - generic [ref=e290]: Gebrauchtwagensuche
+              - listitem [ref=e291]:
+                - link "BMW Online Stores" [ref=e292] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/landingpage/shops.html
+                  - generic [ref=e293]: BMW Online Stores
+              - listitem [ref=e294]:
+                - link "Original BMW Zubehör" [ref=e295] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/shop/ls/cp/physical-goods/de-BF_ACCESSORY
+                  - generic [ref=e296]: Original BMW Zubehör
+              - listitem [ref=e297]:
+                - link "Mein BMW Financial Services" [ref=e298] [cursor=pointer]:
+                  - /url: https://meinfs.bmw.de/de/home.html
+                  - generic [ref=e299]: Mein BMW Financial Services
+              - listitem [ref=e300]:
+                - link "Finanzierung und Leasing" [ref=e301] [cursor=pointer]:
+                  - /url: /de/topics/service-zubehoer/financial-services/bmw-financial-services.html
+                  - generic [ref=e302]: Finanzierung und Leasing
+              - listitem [ref=e303]:
+                - link "Wunschliste" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/shop/ls/wishlist
+                  - generic [ref=e305]: Wunschliste
+              - listitem [ref=e306]:
+                - link "ConnectedDrive Store" [ref=e307] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/shop/ls/cp/connected-drive
+                  - generic [ref=e308]: ConnectedDrive Store
+              - listitem [ref=e309]:
+                - link "Leasingbeispiele für Gewerbekunden" [ref=e310] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de_DE/shop-online/bmw-business-offers.html
+                  - generic [ref=e311]: Leasingbeispiele für Gewerbekunden
+              - listitem [ref=e312]:
+                - link "Leasingbeispiele für Privatkunden" [ref=e313] [cursor=pointer]:
+                  - /url: /de/shop-online/bmw-offers.html
+                  - generic [ref=e314]: Leasingbeispiele für Privatkunden
+              - listitem [ref=e315]:
+                - link "Fahrzeuge vergleichen" [ref=e316] [cursor=pointer]:
+                  - /url: /de/bmw-modelle-vergleichen.html
+                  - generic [ref=e317]: Fahrzeuge vergleichen
+              - listitem [ref=e318]:
+                - link "BMW Lifestyle Store" [ref=e319] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/shop/ls/cp/physical-goods/BF_LIFESTYLE_V2
+                  - generic [ref=e320]: BMW Lifestyle Store
+              - listitem [ref=e321]:
+                - link "Inzahlungnahme" [ref=e322] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/inzahlungnahme/
+                  - generic [ref=e323]: Inzahlungnahme
+              - listitem [ref=e324]:
+                - link "Probefahrt vereinbaren" [ref=e325] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de-de/mybmw/public/testdrivebooking
+                  - generic [ref=e326]: Probefahrt vereinbaren
+        - generic [ref=e329]:
+          - generic [ref=e331]:
+            - heading "Modelle" [level=3] [ref=e332]
+            - list [ref=e333]:
+              - listitem [ref=e334]:
+                - link "BMW X Modelle" [ref=e335] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=x
+                  - generic [ref=e336]: BMW X Modelle
+              - listitem [ref=e337]:
+                - link "BMW 7er" [ref=e338] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=7
+                  - generic [ref=e339]: BMW 7er
+              - listitem [ref=e340]:
+                - link "BMW 5er" [ref=e341] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=5
+                  - generic [ref=e342]: BMW 5er
+              - listitem [ref=e343]:
+                - link "BMW 4er" [ref=e344] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=4
+                  - generic [ref=e345]: BMW 4er
+              - listitem [ref=e346]:
+                - link "BMW 3er" [ref=e347] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=3
+                  - generic [ref=e348]: BMW 3er
+              - listitem [ref=e349]:
+                - link "BMW 2er" [ref=e350] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=2
+                  - generic [ref=e351]: BMW 2er
+              - listitem [ref=e352]:
+                - link "BMW 1er" [ref=e353] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?series=1
+                  - generic [ref=e354]: BMW 1er
+              - listitem [ref=e355]:
+                - link "BMW M Modelle" [ref=e356] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?bmwM=yes
+                  - generic [ref=e357]: BMW M Modelle
+              - listitem [ref=e358]:
+                - link "BMW Limousinen" [ref=e359] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?category=li
+                  - generic [ref=e360]: BMW Limousinen
+              - listitem [ref=e361]:
+                - link "BMW Concept Cars" [ref=e362] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?specialCategory=c
+                  - generic [ref=e363]: BMW Concept Cars
+              - listitem [ref=e364]:
+                - link "BMW Exklusive Automobile" [ref=e365] [cursor=pointer]:
+                  - /url: /de/mehr-bmw/die-exklusiven-bmw-automobile.html
+                  - generic [ref=e366]: BMW Exklusive Automobile
+              - listitem [ref=e367]:
+                - link "BMW Behörden- und Sonderschutzfahrzeuge" [ref=e368] [cursor=pointer]:
+                  - /url: https://www.bmw.de/de/neufahrzeuge.html?specialCategory=p
+                  - generic [ref=e369]: BMW Behörden- und Sonderschutzfahrzeuge
+          - generic [ref=e371]:
+            - heading "BMW Elektrofahrzeuge" [level=3] [ref=e372]
+            - list [ref=e373]:
+              - listitem [ref=e374]:
+                - link "BMW Elektroautos" [ref=e375] [cursor=pointer]:
+                  - /url: /de/elektroauto.html
+                  - generic [ref=e376]: BMW Elektroautos
+              - listitem [ref=e377]:
+                - link "Öffentliches Laden" [ref=e378] [cursor=pointer]:
+                  - /url: /de/elektroauto/public-charging.html
+                  - generic [ref=e379]: Öffentliches Laden
+              - listitem [ref=e380]:
+                - link "Zuhause Laden" [ref=e381] [cursor=pointer]:
+                  - /url: /de/elektroauto/home-charging.html
+                  - generic [ref=e382]: Zuhause Laden
+              - listitem [ref=e383]:
+                - link "Reichweite von Elektroautos" [ref=e384] [cursor=pointer]:
+                  - /url: /de/elektroauto/elektroauto-reichweite.html
+                  - generic [ref=e385]: Reichweite von Elektroautos
+              - listitem [ref=e386]:
+                - link "Kosten eines Elektroautos" [ref=e387] [cursor=pointer]:
+                  - /url: /de/elektroauto/elektroauto-kosten.html
+                  - generic [ref=e388]: Kosten eines Elektroautos
+              - listitem [ref=e389]:
+                - link "BMW Plug-in-Hybrid" [ref=e390] [cursor=pointer]:
+                  - /url: /de/elektroauto/plug-in-hybrid.html
+                  - generic [ref=e391]: BMW Plug-in-Hybrid
+      - list [ref=e397]:
+        - listitem:
+          - link "BMW YouTube":
+            - /url: https://www.youtube.com/user/BMWDeutschland
+            - img "BMW YouTube"
+        - listitem:
+          - link "BMW Facebook":
+            - /url: https://www.facebook.com/BMWDeutschland
+            - img "BMW Facebook"
+        - listitem:
+          - link "BMW Instagram":
+            - /url: https://www.instagram.com/bmwdeutschland/
+            - img "BMW Instagram"
+      - list [ref=e403]:
+        - listitem [ref=e404]:
+          - generic: Copyright © BMW AG 2026
+        - listitem [ref=e405]:
+          - link "Barrierefreiheit" [ref=e406] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/bmw-barrierefreiheit.html
+            - generic [ref=e407]: Barrierefreiheit
+        - listitem [ref=e408]:
+          - link "Impressum" [ref=e409] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/legal-notice-pool/imprint.html
+            - generic [ref=e410]: Impressum
+        - listitem [ref=e411]:
+          - link "Datenschutzrichtlinien" [ref=e412] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/data-privacy.html
+            - generic [ref=e413]: Datenschutzrichtlinien
+        - listitem [ref=e414]:
+          - link "Rechtlicher Hinweis" [ref=e415] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/legal-disclaimer-pool/legal-disclaimer.html
+            - generic [ref=e416]: Rechtlicher Hinweis
+        - listitem [ref=e417]:
+          - link "Cookies" [ref=e418] [cursor=pointer]:
+            - /url: /de/footer/footer-section/cookie-policy.html
+            - generic [ref=e419]: Cookies
+        - listitem [ref=e420]:
+          - link "Gesetz über digitale Dienste" [ref=e421] [cursor=pointer]:
+            - /url: /de/mehr-bmw/digital-services-act.html
+            - generic [ref=e422]: Gesetz über digitale Dienste
+        - listitem [ref=e423]:
+          - link "Betrugserkennung & Sicherheit" [ref=e424] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/bmw-betrugsfaelle.html
+            - generic [ref=e425]: Betrugserkennung & Sicherheit
+        - listitem [ref=e426]:
+          - link "Produktsicherheitsverordnung" [ref=e427] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/legal-disclaimer-pool/Produktsicherheitsverordnung.html
+            - generic [ref=e428]: Produktsicherheitsverordnung
+        - listitem [ref=e429]:
+          - link "EU-Batterieverordnung" [ref=e430] [cursor=pointer]:
+            - /url: /de/footer/metanavigation/eu-batterieverordnung.html
+            - generic [ref=e431]: EU-Batterieverordnung
+        - listitem [ref=e432]:
+          - link "Sitemap" [ref=e433] [cursor=pointer]:
+            - /url: /de/publicPools/sitemap/sitemap.html
+            - generic [ref=e434]: Sitemap
+  - generic [active]:
+    - document:
+      - dialog "cookie-banner" [ref=e438]:
+        - heading "Verwendung von Cookies." [level=2] [ref=e440]
+        - paragraph [ref=e442]:
+          - generic [ref=e444]:
+            - paragraph [ref=e445]: Wir verwenden Cookies, einschließlich Cookies von Drittanbietern, zu Analysezwecken sowie zur Anzeige von personalisierter Werbung auf Grundlage Ihres Surfverhaltens. Mit dem Klick auf „Alle akzeptieren“ willigen Sie in das Speichern und Lesen von Informationen auf Ihrem Endgerät ein.
+            - paragraph [ref=e446]: Ebenso willigen Sie in die weitere Verarbeitung der gesammelten und gelesenen personenbezogenen Daten und deren etwaige Übertragung in Länder außerhalb der erweiterten EU (EU + CH, IS, LI, NO, UK), beispielsweise in die USA, ein.
+            - paragraph [ref=e447]: Für detaillierte Informationen über die Nutzung und Verwaltung von Cookies klicken Sie bitte auf „Anpassen“. Mit dem Klick auf „Cookies verbieten“ lehnen Sie die Verwendung von zustimmungspflichtigen Cookies ab.
+        - generic [ref=e450]:
+          - button "Anpassen" [ref=e451] [cursor=pointer]
+          - button "Verbieten" [ref=e452] [cursor=pointer]: Cookies verbieten
+          - button "Alle akzeptieren" [ref=e453] [cursor=pointer]
