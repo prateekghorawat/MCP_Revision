@@ -1,2 +1,0 @@
-[     434ms] TypeError: Cannot read properties of null (reading 'addEventListener')
-    at HTMLDocument.<anonymous> (https://www.enpal.com/:83:17)
